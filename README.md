@@ -1,5 +1,8 @@
 ## Annotation spreadsheets for all the distal trans eQTL hotspots identified in this study.
 
+### Data for "Single-cell eQTL mapping in yeast reveals a tradeoff between growth and reproduction"
+
+
 The sub-folders collate the result from the the three crosses we examined using single-cell eQTL mapping (A, B, C), and our reanalysis of Albert et al 2018 (A_2018)
 
 Each folder contains an annotation spreadsheet for every distal trans eQTL hotspot identified. The files are named according to the hotspot window and number of markers.
