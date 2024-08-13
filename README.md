@@ -40,7 +40,7 @@ Significant Gene Ontology (GO) term enrichments for the genes linked to each hot
 
 #### **KEGG**
 
-Significantly Kyoto Encyclopedia of Genes and Genomes (KEGG) term enrichments for genes linked to each hotspot.
+Kyoto Encyclopedia of Genes and Genomes (KEGG) term enrichments for genes linked to each hotspot.
 
 #### **GO_raw**
 
