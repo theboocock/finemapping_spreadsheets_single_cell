@@ -1,4 +1,4 @@
-## Annotation spreadsheets for all the distal trans eQTL hotspots identified in this study.
+## Annotation spreadsheets for all the distal trans eQTL hotspots identified Boocock et al. 2024.
 
 ### Data for "Single-cell eQTL mapping in yeast reveals a tradeoff between growth and reproduction"
 
